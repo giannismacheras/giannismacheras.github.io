@@ -1,7 +1,7 @@
 # Randomizer
 ## Privacy Policy
 
-#### Last updated: January 29, 2022
+*Last updated: January 29, 2022*
 
 By using the app "Randomizer" you are consenting to our policies regarding the collection, use and disclosure of personal information set out in this privacy policy. Our privacy policy may change from time to time for any reason.
 
